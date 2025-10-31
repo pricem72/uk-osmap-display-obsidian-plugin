@@ -1,0 +1,10 @@
+{
+  "id": "uk-os-map-gpx",
+  "name": "UK OS Map (GPX)",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Display GPX tracks on Ordnance Survey (OS) map tiles from OS Data Hub inside Obsidian.",
+  "author": "Your Name",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}
